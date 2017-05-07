@@ -7,7 +7,7 @@ export default class GreetingPage extends Component {
     super(props);
     this.state = {
       user: 'Natrayle',
-      profileUrl: 'https://scontent.fykz1-1.fna.fbcdn.net/v/t1.0-9/1689622_10150633964729964_7405000760848561139_n.jpg?oh=1dadb5418422b578f8c7bef32492e131&oe=596B75CF',
+      profileUrl: 'https://cdn.dribbble.com/users/2008/screenshots/893577/dribbble-arctocat.png',
       greeting: "**Beeeer Hugs** :)",
     }
   }
